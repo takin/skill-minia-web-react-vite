@@ -1,5 +1,5 @@
 ---
-name: web-react-vite-dashboard
+name: minia-web-react-vite
 description: "Use when building, reviewing, or modifying authenticated SaaS dashboard projects using React + Vite, Bun, TanStack Router/Query/Form/Table, Shadcn UI, Tailwind CSS, generated OpenAPI clients, static Nginx deployment, or dashboard CI/testing."
 ---
 

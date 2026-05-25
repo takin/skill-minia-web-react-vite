@@ -1,4 +1,4 @@
-# Web React Vite Dashboard Skill
+# Minia Web React Vite Skill
 
 OpenCode skill for building, reviewing, and maintaining authenticated SaaS dashboard projects that use React, Vite, Bun, TanStack libraries, Shadcn UI, generated OpenAPI clients, and static Nginx deployment.
 
